@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    freopen("input.txt", "r", stdin);
+    //freopen("input.txt", "r", stdin);
     int t, n,c;
     cin>>t;
     while(t-- && cin>>n>>c)
